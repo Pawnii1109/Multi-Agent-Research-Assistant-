@@ -1,6 +1,6 @@
-Multi-Agent Research Assistant 🤖
+Multi-Agent Research Assistant 🤖\n
 
-A Streamlit app powered by Google Gemini generative AI that automates the research workflow. Enter a research topic and this app’s three specialized AI agents—Planner, Researcher, and Writer—collaborate to generate key questions, gather detailed answers, and compile a polished summary report.
+A Streamlit app powered by Google Gemini generative AI that automates the research workflow. Enter a research topic and this app’s three specialized AI agents—Planner, Researcher, and Writer—collaborate to generate key questions, gather detailed answers, and compile a polished summary report.\n\n
 
 Features:- 
 1.AI-driven research plan generation with JSON formatted questions
