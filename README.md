@@ -3,6 +3,7 @@ Multi-Agent Research Assistant 🤖
 A Streamlit app powered by Google Gemini generative AI that automates the research workflow. Enter a research topic and this app’s three specialized AI agents—Planner, Researcher, and Writer—collaborate to generate key questions, gather detailed answers, and compile a polished summary report.
 
 
+
 Features:- 
 
 1.AI-driven research plan generation with JSON formatted questions
@@ -14,6 +15,8 @@ Features:-
 4.Interactive and user-friendly Streamlit interface
 
 5.Secure API key management with .env and Streamlit secrets.
+
+
 
 
 
@@ -30,6 +33,8 @@ Getting Started:-
 5.Enter your research topic and watch agents generate a complete report.
 
 
+
+
 Technologies Used:-
 
 1.Streamlit for the front-end UI
@@ -37,6 +42,8 @@ Technologies Used:-
 2.Google Gemini Generative AI for natural language processing
 
 3.Python and dotenv for API key management
+
+
 
 
 License:-
