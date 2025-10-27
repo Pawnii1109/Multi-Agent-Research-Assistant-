@@ -13,7 +13,7 @@ load_dotenv()
 # For Streamlit Community Cloud, set the GOOGLE_API_KEY in st.secrets
 # The key is fetched from environment variables or Streamlit secrets
 try:
-    api_key = "AIzaSyBOLqOC-K1FWEeMSfHR4ZAU0ks28tVjn-U"
+    api_key = "YOUR_GOOGLE_APIKEY"
     #os.getenv("GOOGLE_API_KEY") or st.secrets["GOOGLE_API_KEY"]
     genai.configure(api_key=api_key)
 except (TypeError, KeyError):
@@ -242,3 +242,4 @@ if st.button("Start Research", type="primary"):
         st.write("---")
         st.subheader("📄 Final Summary Report")
         st.markdown(st.session_state.report)
+
